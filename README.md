@@ -1,4 +1,4 @@
-# New Interface wor the Website [Hacker News](https://news.ycombinator.com/news)
+# New Interface for the Website [Hacker News](https://news.ycombinator.com/news)
 
 ## From whom ?
 
